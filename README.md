@@ -16,3 +16,14 @@ If you'd like to submit a new paper, please submit a PR and I will try to mainta
   - More modern-looking
   - Mobile friendly
   - Searchable
+  - ## Additional Historical Record
+
+**Hemant Pandey — P vs. NP manuscript (2006)**
+
+A historical manuscript titled *“P Vs NP… Are they same?”* was submitted to *Applied Mathematics and Computation* in 2006. The manuscript was subsequently withdrawn.
+
+The author's archived copy is preserved on Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.21770323
+
+This entry is provided as a historical attribution and archival record; it does not claim that the P vs. NP problem has been solved.
